@@ -1,4 +1,4 @@
-# Sparse Matrix Transpose
+# Matrix Transpose
 
 ## Compile
 
