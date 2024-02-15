@@ -18,7 +18,3 @@ g++ matrix-transpose.cpp -o transpose
 ![Sparse Matrix Transpose](2009-09-22-16-03-42.png)
 ![Sparse Matrix Transpose](2009-10-09-11-38-10.png)
 
-## TODO
-
-- Replace file I/O with stdin/stdout
-
